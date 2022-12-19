@@ -1,0 +1,6 @@
+{
+  "window.autoDetectColorScheme": true,
+  "liveServer.settings.CustomBrowser": "chrome",
+  "reactSnippets.settings.prettierEnabled": true,
+  "editor.formatOnSave": true
+}
